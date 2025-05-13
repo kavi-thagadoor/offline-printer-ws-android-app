@@ -1,0 +1,7 @@
+{
+  "name": "mobile-bluetooth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
